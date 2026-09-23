@@ -1,0 +1,5 @@
+[
+  {"model": "ads.author", "pk": 1, "fields": {"name": "Иван Петров"}},
+  {"model": "ads.author", "pk": 2, "fields": {"name": "Мария Смирнова"}},
+  {"model": "ads.author", "pk": 3, "fields": {"name": "ООО «Ромашка»"}}
+]
